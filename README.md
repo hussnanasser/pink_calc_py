@@ -1,5 +1,3 @@
-# pink_calc_py
-
 # 💗 Pink Python Calculator
 
 A terminal-based calculator built with Python, with a pink-themed interface and support for common mathematical operations.
